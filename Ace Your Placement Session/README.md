@@ -3,4 +3,4 @@
 ### Some Important Links:
 **Google Sheets Link**: https://docs.google.com/spreadsheets/d/1CLwxe4wMNTWFBbD3CF7-_TGd6eQC8_2YFfO49eQ6V7Y/edit?usp=sharing
 
-**Youtube Video Link**:
+**Youtube Video Link**: https://youtu.be/VAAprCc0Kj0
